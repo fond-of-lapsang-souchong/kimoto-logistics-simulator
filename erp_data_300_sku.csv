@@ -1,0 +1,301 @@
+SKU,Urun_Adi,Kategori,Stok_Adedi,Siparis_Bekleyen,Birim_Maliyet,Birim_Fiyat,Talep_Tahmini,Tesis_Kodu,Ulke,Tedarik_Suresi_Hafta,Musteri_Ozel,Yavas_Hareket
+KIM-B-001,Genel Amacli Sprey,B,17745,67,23,38,18676,ZA-JNB,Güney Afrika,2,False,True
+KIM-B-002,Endustriyel Cila,B,3253,1807,44,79,5129,TR-GEB,Türkiye,3,False,False
+KIM-B-003,Endustriyel Konsantre,B,10696,0,52,77,5156,ZA-JNB,Güney Afrika,5,False,False
+KIM-B-004,Endustriyel Katalizator,B,4257,6972,33,61,12173,TR-GEB,Türkiye,3,False,False
+KIM-A-001,Yuksek Performansli Yag,A,604,64,170,542,999,IN-MUM,Hindistan,5,True,True
+KIM-B-005,Endustriyel Yag,B,17782,0,23,36,17426,TR-GEB,Türkiye,4,False,True
+KIM-A-002,Sentetik Aditif Yag,A,1139,0,153,573,459,ZA-JNB,Güney Afrika,6,True,False
+KIM-C-001,Gunluk Kullanim Gress,C,17376,12936,10,15,32959,TR-GEB,Türkiye,3,False,False
+KIM-C-002,Gunluk Kullanim Kopuk,C,26985,518,11,14,28469,TR-GEB,Türkiye,1,False,False
+KIM-B-006,Genel Amacli Gress,B,20842,0,24,40,7430,ZA-JNB,Güney Afrika,5,False,False
+KIM-C-003,Ekonomik Cila,C,22917,0,13,18,22045,ZA-JNB,Güney Afrika,2,False,False
+KIM-C-004,Yazlik Katalizator,C,22232,3670,11,16,28096,ZA-JNB,Güney Afrika,3,False,False
+KIM-C-005,Yazlik Konsantre,C,45348,0,13,16,17449,IN-MUM,Hindistan,3,False,True
+KIM-A-003,Yuksek Performansli Gress,A,1445,0,171,680,1148,ZA-JNB,Güney Afrika,8,True,False
+KIM-C-006,Yazlik Sprey,C,10931,16663,7,9,28929,ZA-JNB,Güney Afrika,3,False,True
+KIM-A-004,Yuksek Performansli Gress,A,1278,0,133,491,86,ZA-JNB,Güney Afrika,5,True,True
+KIM-C-007,Yazlik Konsantre,C,14105,3166,9,12,35084,IN-MUM,Hindistan,1,False,False
+KIM-C-008,Ekonomik Konsantre,C,48610,0,13,19,15257,ZA-JNB,Güney Afrika,2,False,False
+KIM-A-005,Sentetik Aditif Yag,A,751,0,155,405,325,TR-GEB,Türkiye,6,True,False
+KIM-C-009,Ekonomik Cila,C,10339,10618,9,13,28940,ZA-JNB,Güney Afrika,3,False,False
+KIM-C-010,Gunluk Kullanim Gress,C,28933,0,10,12,21085,ZA-JNB,Güney Afrika,1,False,False
+KIM-C-011,Gunluk Kullanim Kopuk,C,11992,12664,15,21,28442,ZA-JNB,Güney Afrika,3,False,True
+KIM-B-007,Genel Amacli Katalizator,B,10860,0,26,41,2734,ZA-JNB,Güney Afrika,4,False,True
+KIM-A-006,Yuksek Performansli Sprey,A,912,0,133,474,220,TR-GEB,Türkiye,7,True,False
+KIM-C-012,Ekonomik Yag,C,40471,0,8,11,11615,ZA-JNB,Güney Afrika,3,False,True
+KIM-B-008,Endustriyel Sivi,B,14895,2612,28,48,18190,IN-MUM,Hindistan,3,False,True
+KIM-C-013,Yazlik Konsantre,C,10080,13038,6,7,24991,ZA-JNB,Güney Afrika,3,False,False
+KIM-B-009,Endustriyel Yag,B,9321,644,28,49,14445,IN-MUM,Hindistan,3,False,False
+KIM-B-010,Standart Yag,B,13050,0,60,90,3176,ZA-JNB,Güney Afrika,2,False,True
+KIM-A-007,Ozel Polimer Yag,A,1425,0,198,876,106,TR-GEB,Türkiye,8,True,False
+KIM-B-011,Genel Amacli Yag,B,3640,1393,42,67,11984,IN-MUM,Hindistan,5,False,True
+KIM-C-014,Gunluk Kullanim Kopuk,C,36865,266,7,9,38402,IN-MUM,Hindistan,3,False,False
+KIM-B-012,Genel Amacli Cila,B,13595,0,51,85,3422,IN-MUM,Hindistan,5,False,False
+KIM-C-015,Yazlik Cila,C,32672,0,11,16,23708,ZA-JNB,Güney Afrika,1,False,True
+KIM-A-008,Ozel Polimer Sivi,A,1231,0,186,859,848,ZA-JNB,Güney Afrika,8,True,False
+KIM-A-009,Yuksek Performansli Katalizator,A,732,120,148,541,1067,TR-GEB,Türkiye,8,True,False
+KIM-B-013,Genel Amacli Gress,B,14466,0,30,52,11361,IN-MUM,Hindistan,5,False,False
+KIM-C-016,Ekonomik Cila,C,14747,4666,14,20,24413,TR-GEB,Türkiye,3,False,False
+KIM-C-017,Gunluk Kullanim Gress,C,38610,0,9,12,31275,IN-MUM,Hindistan,2,False,False
+KIM-B-014,Endustriyel Yag,B,2561,185,45,88,3127,TR-GEB,Türkiye,5,False,False
+KIM-C-018,Ekonomik Kopuk,C,44039,0,11,16,39783,ZA-JNB,Güney Afrika,3,False,True
+KIM-A-010,Sentetik Aditif Yag,A,1035,0,193,528,496,IN-MUM,Hindistan,6,True,True
+KIM-C-019,Yazlik Sivi,C,30793,0,13,19,30753,ZA-JNB,Güney Afrika,2,False,False
+KIM-C-020,Yazlik Yag,C,18692,0,8,10,11443,IN-MUM,Hindistan,2,False,False
+KIM-B-015,Genel Amacli Cila,B,19500,0,35,62,3941,TR-GEB,Türkiye,5,False,True
+KIM-B-016,Standart Sivi,B,14687,211,30,54,14982,ZA-JNB,Güney Afrika,4,False,True
+KIM-B-017,Standart Yag,B,11546,4326,28,40,19043,IN-MUM,Hindistan,4,False,True
+KIM-A-011,Yuksek Performansli Katalizator,A,335,0,193,634,87,ZA-JNB,Güney Afrika,6,True,False
+KIM-C-021,Yazlik Katalizator,C,38835,0,13,17,34214,IN-MUM,Hindistan,2,False,True
+KIM-A-012,Yuksek Performansli Gress,A,1030,0,167,441,984,IN-MUM,Hindistan,8,True,False
+KIM-B-018,Endustriyel Gress,B,10516,2835,26,42,13437,TR-GEB,Türkiye,4,False,False
+KIM-C-022,Yazlik Gress,C,36814,0,6,8,34996,IN-MUM,Hindistan,1,False,False
+KIM-B-019,Standart Sivi,B,8137,3613,44,66,16641,ZA-JNB,Güney Afrika,4,False,False
+KIM-A-013,Ozel Polimer Konsantre,A,864,0,103,477,544,ZA-JNB,Güney Afrika,5,True,True
+KIM-C-023,Yazlik Sivi,C,44347,0,14,21,26093,TR-GEB,Türkiye,3,False,False
+KIM-C-024,Yazlik Cila,C,33901,0,13,16,17719,ZA-JNB,Güney Afrika,1,False,True
+KIM-B-020,Genel Amacli Gress,B,18081,0,29,57,8657,TR-GEB,Türkiye,3,False,True
+KIM-C-025,Gunluk Kullanim Sivi,C,25714,0,6,8,10989,TR-GEB,Türkiye,3,False,False
+KIM-B-021,Standart Katalizator,B,18585,0,40,67,18217,ZA-JNB,Güney Afrika,5,False,True
+KIM-C-026,Yazlik Cila,C,40482,0,13,16,38012,ZA-JNB,Güney Afrika,1,False,False
+KIM-C-027,Gunluk Kullanim Gress,C,47207,0,5,7,35096,TR-GEB,Türkiye,2,False,True
+KIM-A-014,Ozel Polimer Sprey,A,1064,0,128,480,1006,IN-MUM,Hindistan,6,True,False
+KIM-C-028,Yazlik Yag,C,24673,0,15,22,15100,IN-MUM,Hindistan,3,False,True
+KIM-C-029,Ekonomik Yag,C,24566,0,12,15,12443,IN-MUM,Hindistan,3,False,False
+KIM-C-030,Ekonomik Sprey,C,19907,0,6,8,13513,TR-GEB,Türkiye,2,False,False
+KIM-A-015,Ozel Polimer Gress,A,883,168,134,602,1099,ZA-JNB,Güney Afrika,7,True,False
+KIM-C-031,Ekonomik Konsantre,C,23089,7929,15,22,34696,IN-MUM,Hindistan,2,False,False
+KIM-C-032,Gunluk Kullanim Kopuk,C,26282,0,10,14,24266,ZA-JNB,Güney Afrika,2,False,False
+KIM-B-022,Genel Amacli Gress,B,4208,5815,46,71,19835,TR-GEB,Türkiye,2,False,False
+KIM-C-033,Yazlik Sivi,C,39978,0,15,20,32408,ZA-JNB,Güney Afrika,2,False,False
+KIM-C-034,Yazlik Sprey,C,11132,3653,8,10,17683,TR-GEB,Türkiye,1,False,False
+KIM-B-023,Endustriyel Katalizator,B,18831,0,53,80,6970,TR-GEB,Türkiye,2,False,False
+KIM-A-016,Yuksek Performansli Katalizator,A,731,0,140,663,576,IN-MUM,Hindistan,8,True,False
+KIM-A-017,Ozel Polimer Yag,A,516,0,118,369,482,IN-MUM,Hindistan,5,True,False
+KIM-A-018,Ozel Polimer Yag,A,569,0,174,799,420,TR-GEB,Türkiye,7,True,True
+KIM-C-035,Gunluk Kullanim Katalizator,C,17387,2412,13,16,21450,ZA-JNB,Güney Afrika,1,False,True
+KIM-B-024,Endustriyel Sprey,B,5341,0,56,93,2566,IN-MUM,Hindistan,4,False,False
+KIM-B-025,Endustriyel Konsantre,B,9314,533,52,80,11824,ZA-JNB,Güney Afrika,2,False,False
+KIM-B-026,Genel Amacli Yag,B,16091,0,38,63,5441,ZA-JNB,Güney Afrika,2,False,False
+KIM-C-036,Ekonomik Konsantre,C,35401,0,11,15,23797,ZA-JNB,Güney Afrika,2,False,False
+KIM-B-027,Standart Sivi,B,23486,0,39,60,5850,ZA-JNB,Güney Afrika,5,False,False
+KIM-A-019,Sentetik Aditif Gress,A,1418,0,120,371,211,TR-GEB,Türkiye,8,True,False
+KIM-B-028,Genel Amacli Konsantre,B,3500,6436,47,72,11178,TR-GEB,Türkiye,3,False,True
+KIM-B-029,Genel Amacli Sivi,B,17755,733,39,59,18843,IN-MUM,Hindistan,5,False,True
+KIM-C-037,Ekonomik Konsantre,C,46343,0,14,21,19943,TR-GEB,Türkiye,2,False,True
+KIM-B-030,Genel Amacli Sprey,B,7636,1408,59,88,14300,ZA-JNB,Güney Afrika,2,False,False
+KIM-B-031,Standart Cila,B,17308,0,22,34,5184,IN-MUM,Hindistan,4,False,False
+KIM-C-038,Ekonomik Yag,C,16771,5701,15,20,27950,TR-GEB,Türkiye,1,False,True
+KIM-B-032,Standart Katalizator,B,17610,0,49,85,17414,ZA-JNB,Güney Afrika,2,False,True
+KIM-A-020,Sentetik Aditif Sprey,A,1170,0,149,478,1025,IN-MUM,Hindistan,6,True,False
+KIM-C-039,Gunluk Kullanim Kopuk,C,35020,0,9,12,34056,TR-GEB,Türkiye,3,False,False
+KIM-C-040,Ekonomik Konsantre,C,33276,0,9,12,23083,IN-MUM,Hindistan,3,False,True
+KIM-B-033,Standart Gress,B,8968,0,25,37,7341,ZA-JNB,Güney Afrika,5,False,True
+KIM-B-034,Standart Katalizator,B,2561,7455,42,71,14785,TR-GEB,Türkiye,2,False,False
+KIM-B-035,Endustriyel Konsantre,B,20905,0,25,43,14974,IN-MUM,Hindistan,4,False,False
+KIM-B-036,Standart Gress,B,9545,238,26,51,17002,ZA-JNB,Güney Afrika,3,False,False
+KIM-C-041,Ekonomik Cila,C,13480,4475,6,8,26073,IN-MUM,Hindistan,3,False,False
+KIM-C-042,Gunluk Kullanim Konsantre,C,47791,0,11,14,37071,ZA-JNB,Güney Afrika,1,False,False
+KIM-C-043,Ekonomik Yag,C,22956,0,15,21,12380,TR-GEB,Türkiye,3,False,False
+KIM-C-044,Yazlik Cila,C,36745,0,15,22,30148,TR-GEB,Türkiye,2,False,False
+KIM-C-045,Yazlik Yag,C,11626,16680,12,15,31225,ZA-JNB,Güney Afrika,3,False,False
+KIM-A-021,Sentetik Aditif Sivi,A,536,0,136,354,231,TR-GEB,Türkiye,7,True,False
+KIM-C-046,Yazlik Katalizator,C,16399,137,8,10,19946,TR-GEB,Türkiye,3,False,False
+KIM-C-047,Yazlik Cila,C,40995,0,15,20,15345,IN-MUM,Hindistan,2,False,False
+KIM-C-048,Ekonomik Sprey,C,48163,0,10,14,23483,TR-GEB,Türkiye,1,False,True
+KIM-C-049,Yazlik Kopuk,C,10441,989,11,16,19927,IN-MUM,Hindistan,3,False,False
+KIM-C-050,Yazlik Katalizator,C,19714,0,12,15,11548,IN-MUM,Hindistan,2,False,True
+KIM-B-037,Genel Amacli Kopuk,B,8506,5164,42,80,18940,IN-MUM,Hindistan,3,False,False
+KIM-B-038,Endustriyel Kopuk,B,4821,620,49,79,5522,IN-MUM,Hindistan,3,False,False
+KIM-A-022,Yuksek Performansli Katalizator,A,1245,0,139,462,382,IN-MUM,Hindistan,6,True,False
+KIM-C-051,Gunluk Kullanim Kopuk,C,23361,2557,12,15,32706,IN-MUM,Hindistan,1,False,False
+KIM-C-052,Ekonomik Kopuk,C,14007,21985,7,10,38133,ZA-JNB,Güney Afrika,1,False,True
+KIM-C-053,Yazlik Kopuk,C,14620,432,7,9,36432,ZA-JNB,Güney Afrika,1,False,True
+KIM-C-054,Yazlik Konsantre,C,34695,2016,11,14,37938,TR-GEB,Türkiye,1,False,True
+KIM-A-023,Sentetik Aditif Cila,A,1016,13,106,271,1100,IN-MUM,Hindistan,5,True,False
+KIM-C-055,Ekonomik Katalizator,C,30424,0,11,15,29767,TR-GEB,Türkiye,3,False,False
+KIM-B-039,Endustriyel Gress,B,3752,1983,42,81,6003,ZA-JNB,Güney Afrika,3,False,False
+KIM-B-040,Endustriyel Sprey,B,2746,153,39,69,7260,IN-MUM,Hindistan,5,False,False
+KIM-C-056,Yazlik Konsantre,C,34532,0,14,19,29556,IN-MUM,Hindistan,3,False,True
+KIM-C-057,Yazlik Sivi,C,49751,0,5,7,18116,IN-MUM,Hindistan,3,False,False
+KIM-B-041,Standart Yag,B,2015,2324,52,89,5227,IN-MUM,Hindistan,5,False,False
+KIM-C-058,Yazlik Konsantre,C,43625,0,7,9,33769,ZA-JNB,Güney Afrika,2,False,False
+KIM-C-059,Gunluk Kullanim Konsantre,C,35688,0,14,18,26801,IN-MUM,Hindistan,1,False,False
+KIM-B-042,Endustriyel Cila,B,4624,6940,28,43,19374,ZA-JNB,Güney Afrika,3,False,True
+KIM-A-024,Yuksek Performansli Cila,A,1170,0,137,680,158,IN-MUM,Hindistan,5,True,False
+KIM-C-060,Yazlik Kopuk,C,43004,0,8,10,26923,TR-GEB,Türkiye,3,False,True
+KIM-A-025,Sentetik Aditif Gress,A,180,66,118,445,311,IN-MUM,Hindistan,7,True,False
+KIM-A-026,Sentetik Aditif Konsantre,A,1476,0,198,949,477,IN-MUM,Hindistan,4,True,False
+KIM-C-061,Gunluk Kullanim Cila,C,19357,0,15,19,15261,ZA-JNB,Güney Afrika,3,False,False
+KIM-B-043,Endustriyel Kopuk,B,24179,0,39,71,15099,TR-GEB,Türkiye,2,False,False
+KIM-B-044,Endustriyel Konsantre,B,20305,0,39,64,11386,IN-MUM,Hindistan,3,False,False
+KIM-C-062,Yazlik Sprey,C,36610,0,7,9,13070,TR-GEB,Türkiye,2,False,True
+KIM-C-063,Ekonomik Sprey,C,23600,0,13,17,13792,TR-GEB,Türkiye,1,False,False
+KIM-A-027,Ozel Polimer Sprey,A,1234,0,135,507,379,TR-GEB,Türkiye,4,True,False
+KIM-C-064,Ekonomik Sivi,C,15009,13829,9,11,32676,ZA-JNB,Güney Afrika,2,False,True
+KIM-C-065,Gunluk Kullanim Kopuk,C,24339,4723,12,16,29547,ZA-JNB,Güney Afrika,3,False,True
+KIM-B-045,Standart Konsantre,B,20186,0,53,96,3126,ZA-JNB,Güney Afrika,3,False,True
+KIM-C-066,Yazlik Gress,C,14021,9606,15,20,29923,IN-MUM,Hindistan,3,False,False
+KIM-C-067,Yazlik Sivi,C,33403,0,6,8,31612,TR-GEB,Türkiye,1,False,False
+KIM-B-046,Genel Amacli Sprey,B,4001,7224,21,30,16747,IN-MUM,Hindistan,4,False,True
+KIM-C-068,Gunluk Kullanim Yag,C,19939,1168,11,16,31807,ZA-JNB,Güney Afrika,1,False,False
+KIM-C-069,Gunluk Kullanim Yag,C,34519,333,13,18,35091,IN-MUM,Hindistan,1,False,False
+KIM-C-070,Yazlik Gress,C,36418,0,8,10,27335,TR-GEB,Türkiye,3,False,False
+KIM-B-047,Standart Cila,B,14721,0,37,62,13703,TR-GEB,Türkiye,4,False,False
+KIM-C-071,Ekonomik Yag,C,38132,0,8,11,33798,ZA-JNB,Güney Afrika,1,False,False
+KIM-A-028,Ozel Polimer Sivi,A,1104,0,195,757,288,TR-GEB,Türkiye,4,True,False
+KIM-A-029,Sentetik Aditif Sprey,A,180,843,150,599,1184,ZA-JNB,Güney Afrika,4,True,False
+KIM-C-072,Yazlik Cila,C,31914,0,8,11,31568,ZA-JNB,Güney Afrika,3,False,True
+KIM-A-030,Ozel Polimer Cila,A,1078,0,172,633,67,TR-GEB,Türkiye,6,True,False
+KIM-C-073,Gunluk Kullanim Sivi,C,11352,17125,8,10,35151,IN-MUM,Hindistan,3,False,False
+KIM-C-074,Yazlik Konsantre,C,24647,0,10,15,12378,IN-MUM,Hindistan,3,False,True
+KIM-B-048,Standart Sivi,B,9847,0,45,84,8680,IN-MUM,Hindistan,3,False,False
+KIM-A-031,Ozel Polimer Sivi,A,256,196,157,536,1167,ZA-JNB,Güney Afrika,8,True,False
+KIM-B-049,Genel Amacli Sivi,B,20139,0,57,109,11241,IN-MUM,Hindistan,5,False,False
+KIM-C-075,Gunluk Kullanim Kopuk,C,34089,0,5,7,31834,ZA-JNB,Güney Afrika,2,False,False
+KIM-A-032,Yuksek Performansli Cila,A,707,17,100,333,724,IN-MUM,Hindistan,6,True,False
+KIM-B-050,Endustriyel Sprey,B,24382,0,39,67,10647,ZA-JNB,Güney Afrika,2,False,False
+KIM-C-076,Yazlik Cila,C,23336,0,13,16,23016,IN-MUM,Hindistan,3,False,False
+KIM-C-077,Yazlik Sprey,C,47672,0,12,15,35721,TR-GEB,Türkiye,2,False,False
+KIM-C-078,Ekonomik Katalizator,C,41735,0,8,11,34427,IN-MUM,Hindistan,1,False,False
+KIM-B-051,Endustriyel Katalizator,B,20860,0,31,45,13932,ZA-JNB,Güney Afrika,2,False,False
+KIM-C-079,Yazlik Yag,C,38373,0,9,12,13552,ZA-JNB,Güney Afrika,3,False,True
+KIM-C-080,Gunluk Kullanim Kopuk,C,46577,0,8,11,21790,ZA-JNB,Güney Afrika,2,False,False
+KIM-B-052,Genel Amacli Kopuk,B,6369,9845,57,87,17584,TR-GEB,Türkiye,3,False,False
+KIM-C-081,Ekonomik Katalizator,C,20132,0,11,16,12292,TR-GEB,Türkiye,2,False,False
+KIM-C-082,Gunluk Kullanim Cila,C,26463,0,5,6,17318,ZA-JNB,Güney Afrika,3,False,True
+KIM-B-053,Standart Sprey,B,20812,0,37,52,7855,TR-GEB,Türkiye,3,False,False
+KIM-C-083,Ekonomik Sivi,C,29596,0,8,10,18241,TR-GEB,Türkiye,3,False,False
+KIM-B-054,Endustriyel Konsantre,B,13566,0,50,84,2225,TR-GEB,Türkiye,5,False,False
+KIM-B-055,Endustriyel Konsantre,B,5832,8562,57,83,15414,IN-MUM,Hindistan,4,False,True
+KIM-C-084,Yazlik Konsantre,C,13471,0,13,18,10434,IN-MUM,Hindistan,3,False,True
+KIM-C-085,Yazlik Sprey,C,12254,1745,8,10,15038,TR-GEB,Türkiye,3,False,False
+KIM-A-033,Ozel Polimer Gress,A,800,0,159,537,367,ZA-JNB,Güney Afrika,5,True,True
+KIM-C-086,Yazlik Cila,C,21285,0,7,9,14133,IN-MUM,Hindistan,3,False,False
+KIM-A-034,Ozel Polimer Konsantre,A,1262,0,120,512,274,ZA-JNB,Güney Afrika,7,True,False
+KIM-C-087,Gunluk Kullanim Kopuk,C,46836,0,11,14,33487,ZA-JNB,Güney Afrika,1,False,False
+KIM-C-088,Gunluk Kullanim Cila,C,26152,0,14,17,22554,ZA-JNB,Güney Afrika,2,False,False
+KIM-C-089,Ekonomik Sivi,C,40920,0,10,15,19550,ZA-JNB,Güney Afrika,2,False,True
+KIM-C-090,Yazlik Sprey,C,29561,136,15,21,35869,IN-MUM,Hindistan,2,False,True
+KIM-A-035,Yuksek Performansli Kopuk,A,320,670,151,427,1003,TR-GEB,Türkiye,7,True,False
+KIM-B-056,Endustriyel Sprey,B,11442,0,52,76,9490,IN-MUM,Hindistan,3,False,False
+KIM-C-091,Ekonomik Katalizator,C,28672,0,5,7,17717,ZA-JNB,Güney Afrika,1,False,True
+KIM-B-057,Genel Amacli Yag,B,8038,0,41,81,2939,ZA-JNB,Güney Afrika,2,False,False
+KIM-A-036,Sentetik Aditif Gress,A,411,643,100,472,1073,TR-GEB,Türkiye,7,True,False
+KIM-C-092,Gunluk Kullanim Kopuk,C,20186,10164,10,12,34827,ZA-JNB,Güney Afrika,2,False,False
+KIM-C-093,Ekonomik Cila,C,32164,0,11,15,27672,TR-GEB,Türkiye,1,False,True
+KIM-A-037,Ozel Polimer Konsantre,A,1050,0,106,298,803,IN-MUM,Hindistan,8,True,False
+KIM-C-094,Gunluk Kullanim Yag,C,29790,1251,15,19,34396,IN-MUM,Hindistan,3,False,False
+KIM-C-095,Ekonomik Katalizator,C,11612,3949,9,13,23088,ZA-JNB,Güney Afrika,3,False,False
+KIM-B-058,Endustriyel Yag,B,17117,466,44,63,18887,TR-GEB,Türkiye,4,False,False
+KIM-A-038,Sentetik Aditif Sivi,A,319,107,149,484,950,IN-MUM,Hindistan,8,True,False
+KIM-C-096,Yazlik Konsantre,C,44331,0,7,9,39823,IN-MUM,Hindistan,2,False,False
+KIM-C-097,Yazlik Kopuk,C,17110,0,11,16,12135,TR-GEB,Türkiye,1,False,False
+KIM-A-039,Ozel Polimer Sprey,A,1351,0,167,437,372,IN-MUM,Hindistan,7,True,False
+KIM-C-098,Yazlik Kopuk,C,27831,0,6,8,27773,ZA-JNB,Güney Afrika,2,False,True
+KIM-B-059,Genel Amacli Sivi,B,21116,0,57,90,11860,TR-GEB,Türkiye,4,False,False
+KIM-B-060,Genel Amacli Sivi,B,24654,0,37,66,4157,IN-MUM,Hindistan,3,False,False
+KIM-C-099,Gunluk Kullanim Yag,C,35910,0,14,17,14744,IN-MUM,Hindistan,2,False,False
+KIM-B-061,Genel Amacli Konsantre,B,21088,0,58,113,12691,TR-GEB,Türkiye,4,False,False
+KIM-C-100,Gunluk Kullanim Konsantre,C,35957,0,11,16,21712,IN-MUM,Hindistan,3,False,True
+KIM-C-101,Ekonomik Kopuk,C,40085,0,5,6,13229,TR-GEB,Türkiye,3,False,True
+KIM-B-062,Endustriyel Gress,B,24403,0,32,61,7362,TR-GEB,Türkiye,2,False,False
+KIM-B-063,Standart Sprey,B,2496,6263,24,35,13276,ZA-JNB,Güney Afrika,2,False,False
+KIM-B-064,Genel Amacli Konsantre,B,6235,10963,27,39,17637,IN-MUM,Hindistan,5,False,False
+KIM-C-102,Ekonomik Katalizator,C,17829,103,9,11,19121,TR-GEB,Türkiye,1,False,False
+KIM-A-040,Ozel Polimer Gress,A,975,0,136,415,685,ZA-JNB,Güney Afrika,6,True,False
+KIM-A-041,Ozel Polimer Gress,A,204,56,174,643,644,IN-MUM,Hindistan,4,True,False
+KIM-C-103,Yazlik Katalizator,C,35234,604,5,6,37920,IN-MUM,Hindistan,2,False,False
+KIM-B-065,Genel Amacli Konsantre,B,3375,7463,57,98,12299,TR-GEB,Türkiye,3,False,True
+KIM-A-042,Ozel Polimer Katalizator,A,999,0,159,671,60,IN-MUM,Hindistan,5,True,False
+KIM-B-066,Standart Kopuk,B,5462,5001,27,40,13962,IN-MUM,Hindistan,2,False,False
+KIM-B-067,Genel Amacli Konsantre,B,16648,0,30,45,16220,ZA-JNB,Güney Afrika,3,False,False
+KIM-A-043,Sentetik Aditif Yag,A,1211,0,163,554,170,IN-MUM,Hindistan,5,True,False
+KIM-C-104,Yazlik Sivi,C,18402,0,10,14,12236,ZA-JNB,Güney Afrika,2,False,True
+KIM-A-044,Ozel Polimer Sivi,A,1315,0,180,793,527,IN-MUM,Hindistan,4,True,False
+KIM-C-105,Ekonomik Sprey,C,48629,0,7,10,26794,IN-MUM,Hindistan,2,False,True
+KIM-B-068,Endustriyel Katalizator,B,16631,0,60,92,15440,IN-MUM,Hindistan,4,False,False
+KIM-C-106,Yazlik Gress,C,16533,0,13,18,12464,TR-GEB,Türkiye,1,False,False
+KIM-B-069,Genel Amacli Sprey,B,22331,0,47,92,19534,ZA-JNB,Güney Afrika,4,False,False
+KIM-B-070,Genel Amacli Sivi,B,18110,0,38,65,16676,TR-GEB,Türkiye,4,False,False
+KIM-B-071,Genel Amacli Sprey,B,13660,0,49,92,5529,ZA-JNB,Güney Afrika,4,False,False
+KIM-C-107,Ekonomik Sprey,C,25864,0,10,13,22308,IN-MUM,Hindistan,1,False,False
+KIM-C-108,Yazlik Yag,C,11217,854,12,15,23855,ZA-JNB,Güney Afrika,2,False,True
+KIM-C-109,Yazlik Sprey,C,29628,7359,12,15,37094,TR-GEB,Türkiye,1,False,False
+KIM-C-110,Yazlik Sprey,C,25706,0,9,12,17772,TR-GEB,Türkiye,3,False,False
+KIM-C-111,Yazlik Sivi,C,41285,0,10,12,20684,ZA-JNB,Güney Afrika,2,False,False
+KIM-C-112,Yazlik Yag,C,13295,1857,12,17,23221,TR-GEB,Türkiye,2,False,False
+KIM-C-113,Gunluk Kullanim Konsantre,C,20747,7916,15,22,32415,TR-GEB,Türkiye,1,False,False
+KIM-A-045,Yuksek Performansli Katalizator,A,569,348,118,484,1060,TR-GEB,Türkiye,7,True,False
+KIM-C-114,Yazlik Gress,C,14058,0,11,14,10885,ZA-JNB,Güney Afrika,2,False,True
+KIM-C-115,Yazlik Konsantre,C,41020,0,5,7,20397,IN-MUM,Hindistan,3,False,False
+KIM-B-072,Genel Amacli Kopuk,B,13903,0,47,69,7637,TR-GEB,Türkiye,2,False,False
+KIM-B-073,Endustriyel Yag,B,7623,4514,30,44,15337,ZA-JNB,Güney Afrika,3,False,True
+KIM-C-116,Ekonomik Kopuk,C,32793,1928,15,20,39155,ZA-JNB,Güney Afrika,1,False,False
+KIM-C-117,Yazlik Gress,C,18315,8193,13,17,30284,IN-MUM,Hindistan,2,False,True
+KIM-C-118,Yazlik Sprey,C,23036,0,7,9,15732,ZA-JNB,Güney Afrika,1,False,False
+KIM-C-119,Gunluk Kullanim Yag,C,35980,796,11,14,37990,IN-MUM,Hindistan,1,False,False
+KIM-C-120,Gunluk Kullanim Sivi,C,30056,0,14,21,17609,ZA-JNB,Güney Afrika,1,False,False
+KIM-C-121,Yazlik Konsantre,C,47991,0,5,6,27599,IN-MUM,Hindistan,1,False,True
+KIM-C-122,Yazlik Gress,C,42406,0,11,15,33311,IN-MUM,Hindistan,2,False,True
+KIM-B-074,Genel Amacli Yag,B,18034,0,36,58,13840,IN-MUM,Hindistan,3,False,False
+KIM-A-046,Sentetik Aditif Sivi,A,236,27,109,460,471,ZA-JNB,Güney Afrika,8,True,False
+KIM-B-075,Endustriyel Katalizator,B,24720,0,50,81,7380,TR-GEB,Türkiye,5,False,False
+KIM-B-076,Standart Sivi,B,20389,0,51,83,9555,IN-MUM,Hindistan,5,False,False
+KIM-C-123,Gunluk Kullanim Katalizator,C,18954,3075,11,14,36061,IN-MUM,Hindistan,1,False,False
+KIM-A-047,Ozel Polimer Konsantre,A,144,8,180,662,441,ZA-JNB,Güney Afrika,8,True,False
+KIM-C-124,Gunluk Kullanim Kopuk,C,33848,0,13,19,33269,ZA-JNB,Güney Afrika,1,False,False
+KIM-A-048,Sentetik Aditif Cila,A,1218,0,172,499,1033,TR-GEB,Türkiye,5,True,False
+KIM-C-125,Gunluk Kullanim Sprey,C,49625,0,12,16,34274,ZA-JNB,Güney Afrika,1,False,False
+KIM-C-126,Yazlik Sprey,C,36960,0,12,15,35572,ZA-JNB,Güney Afrika,3,False,True
+KIM-B-077,Endustriyel Sprey,B,9853,1,24,43,9867,TR-GEB,Türkiye,2,False,False
+KIM-B-078,Endustriyel Konsantre,B,2570,8738,60,102,16211,IN-MUM,Hindistan,3,False,False
+KIM-C-127,Gunluk Kullanim Gress,C,41329,0,6,7,28469,ZA-JNB,Güney Afrika,2,False,False
+KIM-B-079,Standart Cila,B,14042,0,29,43,12427,IN-MUM,Hindistan,3,False,False
+KIM-A-049,Yuksek Performansli Cila,A,1119,0,144,568,125,IN-MUM,Hindistan,5,True,True
+KIM-A-050,Ozel Polimer Katalizator,A,1142,0,198,963,151,TR-GEB,Türkiye,6,True,False
+KIM-B-080,Standart Sprey,B,18528,0,56,80,7961,ZA-JNB,Güney Afrika,2,False,True
+KIM-A-051,Yuksek Performansli Kopuk,A,682,93,150,525,880,TR-GEB,Türkiye,5,True,False
+KIM-B-081,Standart Konsantre,B,15629,0,22,43,2400,ZA-JNB,Güney Afrika,4,False,False
+KIM-C-128,Yazlik Yag,C,20402,0,13,17,12777,ZA-JNB,Güney Afrika,2,False,False
+KIM-C-129,Yazlik Kopuk,C,49645,0,15,20,21300,ZA-JNB,Güney Afrika,2,False,True
+KIM-B-082,Genel Amacli Katalizator,B,12954,0,37,71,8915,IN-MUM,Hindistan,5,False,False
+KIM-A-052,Ozel Polimer Konsantre,A,137,229,172,485,553,IN-MUM,Hindistan,5,True,False
+KIM-A-053,Ozel Polimer Yag,A,150,585,127,449,984,ZA-JNB,Güney Afrika,8,True,False
+KIM-C-130,Ekonomik Katalizator,C,27522,0,12,17,13214,TR-GEB,Türkiye,1,False,True
+KIM-C-131,Ekonomik Cila,C,40492,0,5,6,10889,IN-MUM,Hindistan,3,False,True
+KIM-B-083,Standart Kopuk,B,21338,0,60,90,2746,ZA-JNB,Güney Afrika,2,False,False
+KIM-A-054,Sentetik Aditif Katalizator,A,1219,0,147,378,562,IN-MUM,Hindistan,7,True,False
+KIM-C-132,Ekonomik Konsantre,C,48680,0,13,17,33326,TR-GEB,Türkiye,2,False,True
+KIM-C-133,Ekonomik Kopuk,C,17470,0,9,11,12209,TR-GEB,Türkiye,2,False,True
+KIM-C-134,Gunluk Kullanim Sprey,C,26388,159,7,9,26888,ZA-JNB,Güney Afrika,2,False,True
+KIM-C-135,Ekonomik Konsantre,C,17839,15394,7,9,37431,ZA-JNB,Güney Afrika,2,False,False
+KIM-B-084,Endustriyel Cila,B,11182,449,40,65,12217,ZA-JNB,Güney Afrika,2,False,True
+KIM-A-055,Sentetik Aditif Kopuk,A,57,62,117,356,148,ZA-JNB,Güney Afrika,7,True,False
+KIM-C-136,Ekonomik Cila,C,45920,0,6,7,18980,TR-GEB,Türkiye,2,False,True
+KIM-C-137,Yazlik Yag,C,42873,0,14,21,24247,ZA-JNB,Güney Afrika,3,False,False
+KIM-C-138,Ekonomik Sivi,C,23383,0,6,7,21222,IN-MUM,Hindistan,2,False,False
+KIM-C-139,Gunluk Kullanim Katalizator,C,18804,3961,5,7,24567,ZA-JNB,Güney Afrika,3,False,False
+KIM-A-056,Ozel Polimer Konsantre,A,463,391,157,462,976,IN-MUM,Hindistan,5,True,False
+KIM-B-085,Standart Cila,B,11643,0,22,42,9616,IN-MUM,Hindistan,5,False,False
+KIM-B-086,Endustriyel Cila,B,19893,0,50,76,16780,ZA-JNB,Güney Afrika,3,False,False
+KIM-B-087,Standart Kopuk,B,21940,0,21,31,13481,ZA-JNB,Güney Afrika,3,False,False
+KIM-C-140,Ekonomik Gress,C,28792,0,8,12,15317,TR-GEB,Türkiye,3,False,False
+KIM-A-057,Yuksek Performansli Cila,A,113,32,150,583,397,ZA-JNB,Güney Afrika,5,True,True
+KIM-C-141,Yazlik Cila,C,17657,1986,11,16,23567,ZA-JNB,Güney Afrika,2,False,True
+KIM-C-142,Gunluk Kullanim Gress,C,40758,0,6,9,29656,ZA-JNB,Güney Afrika,1,False,False
+KIM-C-143,Ekonomik Katalizator,C,39716,0,12,17,14855,ZA-JNB,Güney Afrika,1,False,False
+KIM-B-088,Endustriyel Sprey,B,15503,0,25,48,4594,TR-GEB,Türkiye,4,False,False
+KIM-C-144,Gunluk Kullanim Sprey,C,22951,2729,14,19,39190,TR-GEB,Türkiye,3,False,False
+KIM-B-089,Endustriyel Katalizator,B,9346,687,41,63,17215,TR-GEB,Türkiye,5,False,False
+KIM-C-145,Ekonomik Konsantre,C,47139,0,7,9,38736,ZA-JNB,Güney Afrika,2,False,False
+KIM-B-090,Standart Cila,B,3839,14525,60,106,19025,ZA-JNB,Güney Afrika,5,False,False
+KIM-C-146,Yazlik Sivi,C,27913,61,11,14,28065,IN-MUM,Hindistan,3,False,False
+KIM-C-147,Ekonomik Kopuk,C,19216,0,10,13,12514,ZA-JNB,Güney Afrika,3,False,False
+KIM-A-058,Sentetik Aditif Konsantre,A,796,91,132,467,907,TR-GEB,Türkiye,7,True,False
+KIM-A-059,Sentetik Aditif Katalizator,A,1260,0,124,401,726,ZA-JNB,Güney Afrika,7,True,False
+KIM-A-060,Yuksek Performansli Sivi,A,235,54,124,565,300,TR-GEB,Türkiye,6,True,False
+KIM-C-148,Ekonomik Yag,C,35599,0,7,10,10753,ZA-JNB,Güney Afrika,1,False,False
+KIM-C-149,Yazlik Cila,C,36118,0,10,14,14139,TR-GEB,Türkiye,1,False,False
+KIM-C-150,Gunluk Kullanim Yag,C,16307,0,12,15,12227,TR-GEB,Türkiye,2,False,False

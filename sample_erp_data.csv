@@ -1,0 +1,14 @@
+SKU,Urun_Adi,Kategori,Stok_Adedi,Siparis_Bekleyen,Birim_Maliyet,Birim_Fiyat,Talep_Tahmini,Tesis_Kodu,Ulke,Tedarik_Suresi_Hafta,Musteri_Ozel,Yavas_Hareket
+KIM-A-001,Yuksek Performansli Katalizator,A,850,50,150,250,900,TR-GEB,Türkiye,2,TRUE,FALSE
+KIM-A-015,Ozel Polimer Katkisi,A,0,600,180,300,750,TR-GEB,Türkiye,2,TRUE,FALSE
+KIM-A-042,Sentetik Motor Yagi Aditifi,A,1200,80,120,210,1100,IN-MUM,Hindistan,4,TRUE,FALSE
+KIM-A-058,Korozyon Onleyici Sprey X5,A,0,450,95,180,500,IN-MUM,Hindistan,4,TRUE,FALSE
+KIM-B-001,Standart Hidrolik Yag,B,18000,100,40,70,17500,ZA-JNB,Güney Afrika,3,FALSE,FALSE
+KIM-B-034,Genel Amacli Gress,B,25000,50,25,45,20000,ZA-JNB,Güney Afrika,3,FALSE,TRUE
+KIM-B-077,Fren Temizleme Sivisi,B,16500,200,35,65,16000,TR-GEB,Türkiye,1,FALSE,FALSE
+KIM-B-091,Antifriz Konsantresi,B,32000,0,55,90,25000,TR-GEB,Türkiye,1,FALSE,TRUE
+KIM-C-005,Yazlik Cam Suyu,C,1200,800,5,12,2000,ZA-JNB,Güney Afrika,3,FALSE,FALSE
+KIM-C-021,Kislik Lastik Parlatici,C,800,1500,8,18,2500,IN-MUM,Hindistan,4,FALSE,FALSE
+KIM-C-066,Boya Koruma Cilasi (Yaz Sezonu),C,1500,1200,12,25,3000,TR-GEB,Türkiye,1,FALSE,FALSE
+KIM-C-110,Yogun Trafik Sogutma Sivisi,C,500,2500,7,15,3200,IN-MUM,Hindistan,4,FALSE,FALSE
+KIM-C-135,Klima Temizleyici Kopuk,C,2200,500,9,20,2800,ZA-JNB,Güney Afrika,3,FALSE,FALSE

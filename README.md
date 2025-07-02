@@ -1,8 +1,8 @@
 # Kimoto Solutions - Entegre Karar Destek Sistemi
 
 Bu proje, 22. Üniversiteler Arası Lojistik Vaka Yarışması için geliştirilmiş, Python ve Streamlit tabanlı interaktif bir tedarik zinciri simülasyon ve optimizasyon aracıdır. Uygulama, karmaşık tedarik zinciri kararlarının finansal, operasyonel ve stratejik sonuçlarını görselleştirmek ve en uygun stratejiyi bulmak için tasarlanmıştır.
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://senin-streamlit-cloud-linkin.streamlit.app) 
+      
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kimoto-logistics-simulator-fpasaqeb2ynv3xrsbuuzzj.streamlit.app/)
 
 ---
 

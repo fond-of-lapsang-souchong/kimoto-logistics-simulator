@@ -403,7 +403,11 @@ def main():
     UI yöneticisini başlatır, sayfa navigasyonunu yönetir ve kullanıcı
     etkileşimlerine göre simülasyon veya optimizasyon akışlarını tetikler.
     """
-    st.set_page_config(page_title="Kimoto Solutions - Entegre Simülatör", layout="wide")
+    st.set_page_config(
+        page_title="Kimoto Solutions - Entegre Simülatör",
+        layout="wide",
+        initial_sidebar_state="expanded"
+    )
     apply_custom_styles()
 
     logger.info("="*50)

@@ -406,14 +406,14 @@ class UIManager:
             st.markdown("---")
             scenario_note = f"Optimum: {optimization_goal}"
             if st.button('Bu Optimal Senaryoyu Karşılaştırmak İçin Kaydet 💾', key='save_optimal_scenario'):
-                final_row_save = results_df.iloc[-1]
-                yillik_toplam_kar_zarar_save = results_df['Aylık Net Kar'].sum() - (self.base_data['initial_kpis']['net_kar_aylik'] * self.config['simulation_parameters']['months_in_year'])
-                co2_tasarrufu_save = 0
-                if isinstance(results_data, dict):
-                    summary_data = results_data.get("summary")
-                    if isinstance(summary_data, dict):
-                        co2_tasarrufu_save = summary_data.get("co2_savings", 0)
-                st.session_state.scenarios.append({"Not": scenario_note, "Final OTIF": f"{final_row_save['OTIF']:.1%}", "Yıllık Kar/Zarar": f"${yillik_toplam_kar_zarar_save:,.0f}", "CO2 Tasarrufu": f"{co2_tasarrufu_save:,.0f} ton", "Final Esneklik": f"{final_row_save['Esneklik Skoru']:.1f}"})
+                summary = results_data.get("summary", {})
+                st.session_state.scenarios.append({
+                    "Not": scenario_note,
+                    "Final OTIF": f"{summary.get('final_otif', 0):.1%}",
+                    "Yıllık Kar/Zarar": f"${summary.get('annual_profit_change', 0):,.0f}",
+                    "CO2 Tasarrufu": f"{summary.get('co2_savings', 0):,.0f} ton",
+                    "Final Esneklik": f"{summary.get('final_flexibility', 0):.1f}"
+                })
                 st.success(f"Senaryo '{scenario_note}' kaydedildi!")
         st.markdown("---")
         st.markdown("### Optimal Stratejinin Detaylı Analizi")
@@ -691,14 +691,14 @@ class UIManager:
         st.subheader("Senaryo Yönetimi")
         senaryo_notu = st.text_input("Bu senaryoya bir not ekle:", placeholder="Örn: Agresif G.Afrika stratejisi, 2 krizli")
         if st.button('Bu Senaryoyu Karşılaştırmak İçin Kaydet 💾', key='save_scenario'):
-            final_row_save = results_df.iloc[-1]
-            yillik_toplam_kar_zarar_save = results_df['Aylık Net Kar'].sum() - (self.base_data['initial_kpis']['net_kar_aylik'] * self.config['simulation_parameters']['months_in_year'])
-            co2_tasarrufu_save = 0
-            if isinstance(results_data, dict):
-                summary_data = results_data.get("summary")
-                if isinstance(summary_data, dict):
-                    co2_tasarrufu_save = summary_data.get("co2_savings", 0)
-            st.session_state.scenarios.append({"Not": senaryo_notu, "Final OTIF": f"{final_row_save['OTIF']:.1%}", "Yıllık Kar/Zarar": f"${yillik_toplam_kar_zarar_save:,.0f}", "CO2 Tasarrufu": f"{co2_tasarrufu_save:,.0f} ton", "Final Esneklik": f"{final_row_save['Esneklik Skoru']:.1f}"})
+            summary = results_data.get("summary", {})
+            st.session_state.scenarios.append({
+                "Not": senaryo_notu,
+                "Final OTIF": f"{summary.get('final_otif', 0):.1%}",
+                "Yıllık Kar/Zarar": f"${summary.get('annual_profit_change', 0):,.0f}",
+                "CO2 Tasarrufu": f"{summary.get('co2_savings', 0):,.0f} ton",
+                "Final Esneklik": f"{summary.get('final_flexibility', 0):.1f}"
+            })
             st.success(f"Senaryo '{senaryo_notu}' kaydedildi!")
         if st.session_state.scenarios:
             st.subheader("Kaydedilen Senaryoların Karşılaştırması")

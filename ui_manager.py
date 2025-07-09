@@ -689,7 +689,7 @@ class UIManager:
         if st.button('Bu Senaryoyu Karşılaştırmak İçin Kaydet 💾', key='save_scenario'):
             final_row_save = results_df.iloc[-1]
             yillik_toplam_kar_zarar_save = results_df['Aylık Net Kar'].sum() - (self.base_data['initial_kpis']['net_kar_aylik'] * self.config['simulation_parameters']['months_in_year'])
-            co2_tasarrufu_save = results_data.get("summary", {}).get("co2_savings", 0)
+            co2_tasarrufu_save = results_data.get('summary', {}).get('co2_savings', 0)
             st.session_state.scenarios.append({"Not": senaryo_notu, "Final OTIF": f"{final_row_save['OTIF']:.1%}", "Yıllık Kar/Zarar": f"${yillik_toplam_kar_zarar_save:,.0f}", "CO2 Tasarrufu": f"{co2_tasarrufu_save:,.0f} ton", "Final Esneklik": f"{final_row_save['Esneklik Skoru']:.1f}"})
             st.success(f"Senaryo '{senaryo_notu}' kaydedildi!")
         if st.session_state.scenarios:
